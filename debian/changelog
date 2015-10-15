@@ -1,0 +1,5 @@
+nettenance (0.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Jose M. Gonzalez <txema.gonz@gmail.com>  Thu, 15 Oct 2015 23:40:27 +0200
